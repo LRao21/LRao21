@@ -24,8 +24,6 @@
   
   If you asked me to sum myself up in one line, that's what I'd choose. 
 
-  If you asked me to sum myself up in one line, that's what I'd choose.
-
   Stories fascinate me because they're pieces of someone's life they chose to share, whether it's philosophy, adventure, advice, etc. They connect us in ways nothing else can. In high school, I spent a year   
   diving deep into mall design and visual elements, and my paper became a way to share that whole journey—a year of my life I'd poured into learning and breathing something completely new. At Rutgers, my 
   favorite memories aren't from lecture halls—they're from random bus conversations, early morning classes followed by Livi pancakes, and discovering that everyone has wildly different takes on dining hall food 
@@ -46,11 +44,11 @@
 ## Skills & Technologies
 
     Programming Languages: 
-      📈 Python, Java 
+      📈 Python, Java, C
     
-      🖥️ Web Dev: React, JavaScript, HTML, CSS, C
+      🖥️ Web Dev: React, JavaScript, HTML, CSS
     
-    🛠️ Frameworks & Tools: OpenCV, JSON, Unix/Linux, Git
+    🛠️ Frameworks & Tools: OpenCV, Unix/Linux, Git
 
     ☁️ Cloud & Databases: Microsoft Azure (Azure Fundamentals, Azure Data Fundamentals)
 
