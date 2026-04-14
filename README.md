@@ -3,11 +3,11 @@
 ## TLDR
   🌟: What are my career goals for the next year?
   
-    Seeking new grad software engineer roles
+    Seeking SOC analyst roles or security internships
 
   🎓: I'm a student, but where am I from?
   
-    Rutgers Honors College student majoring in Computer Science and minoring in Mathematics (expected Jan 2026)
+    Cybersecurity Graduate Student in the Rutgers Master of Business and Science (MBS) Program
     
   🌐: Let's connect!
 
@@ -15,7 +15,7 @@
 
   🎉 The project I'm proudest of right now!
 
-    https://lrao21.github.io/WA_MineCraft/final/home.html
+    [coming soon]
 
 -------------------------------------------
 ## A Little Bit About Me
@@ -43,15 +43,13 @@
 -------------------------------------------
 ## Skills & Technologies
 
-    Programming Languages: 
-      📈 Python, Java, C
-    
-      🖥️ Web Dev: React, JavaScript, HTML, CSS
-    
-    🛠️ Frameworks & Tools: OpenCV, Unix/Linux, Git
+    Programming Languages: Python, Java, C, PostgreSQL
+      
+    Frameworks & Tools: OpenCV, Unix/Linux, Git
 
-    ☁️ Cloud & Databases: Microsoft Azure (Azure Fundamentals, Azure Data Fundamentals)
+    Certifications: COMPTIA Security+ (Expected May 2026), Google Cybersecurity Certification (Expected May 2026),
+                    Microsoft Azure (Azure Fundamentals, Azure Data Fundamentals)
 
-    🤖 Design Software: Autodesk Fusion 360
+    Design Software: Autodesk Fusion 360
 
-    💬 Languages: English, French (Seal of Biliteracy)
+    Languages: English, French (Seal of Biliteracy)
