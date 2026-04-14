@@ -24,21 +24,15 @@
   
   If you asked me to sum myself up in one line, that's what I'd choose. 
 
-  Stories fascinate me because they're pieces of someone's life they chose to share, whether it's philosophy, adventure, advice, etc. They connect us in ways nothing else can. In high school, I spent a year   
-  diving deep into mall design and visual elements, and my paper became a way to share that whole journey—a year of my life I'd poured into learning and breathing something completely new. At Rutgers, my 
-  favorite memories aren't from lecture halls—they're from random bus conversations, early morning classes followed by Livi pancakes, and discovering that everyone has wildly different takes on dining hall food 
-  (team Busch, by the way). Just like that paper, they're stories too! 
+  Stories fascinate me because they're the pieces of someone's life they chose to share. They connect us in ways nothing else can because they live in the details. Someone chose that exact phrase, that specific example, or that particular corner of a memory to share, and there's so much thought packed into that choice. 
+  
+  Even the smallest moment can be a great story. At Rutgers, my favorite memories are from random bus conversations, early morning classes, and learning about different takes on dining hall food. They're great because they're so telling of a person. 
 
-  What I love most about stories is that they live in the details. Someone chose that exact phrase, that specific example, that particular corner of a memory to share. There's so much thought packed into those 
-  choices.
+  However, that also makes stories dangerous. Exposed PII in the wrong or unknown hands can severely damage someone's livelihood. As companies increase their digital infrastructure, there has likewise been an increase in opportunities for cyberattacks and other security incidents. Therefore, company security postures, and the safety of our stories and data, are being tested more than ever. 
 
-  I want to become a better storyteller through my code. Every project is unique because someone built it; their perspective shapes every decision, every function, every design choice. It's an expression of 
-  their time and thought, which makes it a story too, in a way.
+  As a cybersecurity graduate student seeking to enter the security industry, I want to use the skills I'm gaining through my program and other experiences to improve security procedures and investigate incidents before someone's story is exposed in a way they didn't choose. 
 
-  As I get ready to graduate, I'm carrying all these stories with me into my next chapter. I want to be a software engineer who helps build things that create new stories and leave room for others to make their 
-  own memories and stories. (Plus, learning cool frameworks and employable skills sounds pretty great too.)
-
-  Right now, I'm diving into new technologies, and really just figuring it all out one step at a time. Eventually, I'll have figured it all out enough to make a good book, metaphorically speaking, or just a good   amount of clean code.
+ Right now, I'm working on starting a homelab, expanding my skills through certifications, and experimenting with Python to become at just that!
  
 -------------------------------------------
 ## Skills & Technologies
